@@ -16,7 +16,7 @@ En cuanto a las categorías posibles para una inscripción, se manejan las sigui
 
 Se necesita un programa que, a partir del ingreso de los datos y edad de cada participante, se muestre por pantalla a qué categoría debe ser inscripto.
 
-Cabe destacar que, al finalizar el día, para dar fin a las inscripciones, se debe ingresar un dni con el valor 0 y un nombre con la palabra “fin”.
+Al final, se debe ingresar un dni con el valor "0" o un nombre con la palabra "fin" para finalizar el programa.
 
 
 # Exercise in Java
@@ -38,4 +38,4 @@ A program is needed that, based on the entry of the data and age of each partici
 
 At the end of the day.
 
-It should be noted that, at the end of the day, to end registrations, an ID with the value 0 and a name with the word “end” must be entered.
+At the end, you must enter an ID with the value "0" or a name with the word "end" to end the program.
