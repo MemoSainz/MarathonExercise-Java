@@ -39,3 +39,9 @@ A program is needed that, based on the entry of the data and age of each partici
 At the end of the day.
 
 At the end, you must enter an ID with the value "0" or a name with the word "end" to end the program.
+
+<br>
+<br>
+
+<b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
+
