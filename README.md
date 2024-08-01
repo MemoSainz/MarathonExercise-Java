@@ -16,8 +16,6 @@ En cuanto a las categorías posibles para una inscripción, se manejan las sigui
 
 Se necesita un programa que, a partir del ingreso de los datos y edad de cada participante, se muestre por pantalla a qué categoría debe ser inscripto.
 
-Al final del día. 
-
 Cabe destacar que, al finalizar el día, para dar fin a las inscripciones, se debe ingresar un dni con el valor 0 y un nombre con la palabra “fin”.
 
 
