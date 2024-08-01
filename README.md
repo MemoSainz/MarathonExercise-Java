@@ -30,11 +30,11 @@ The Federation of Marathons (organizing body) stated that the following data is 
 
 Regarding the possible categories for registration, the following are handled:
 
-Minors A (6 to 10 years old)
-Minors B (11 to 17 years old)
-Youth (18 to 30 years old)
-Adults (31 to 50 years old)
-Seniors (over 50 years old)
+    Minors A (6 to 10 years old)
+    Minors B (11 to 17 years old)
+    Youth (18 to 30 years old)
+    Adults (31 to 50 years old)
+    Seniors (over 50 years old)
 
 A program is needed that, based on the entry of the data and age of each participant, shows on the screen which category they should be registered for.
 
