@@ -19,3 +19,25 @@ Se necesita un programa que, a partir del ingreso de los datos y edad de cada pa
 Al final del día. 
 
 Cabe destacar que, al finalizar el día, para dar fin a las inscripciones, se debe ingresar un dni con el valor 0 y un nombre con la palabra “fin”.
+
+
+# Exercise in Java
+
+
+In the city of Guasave, Sinaloa, the “Immigrant Marathon” is held every year within the framework of the National Immigrant Festival. The event has one day of registration the day before the race, so the exact number of registrants that may occur is unknown.
+
+The Federation of Marathons (organizing body) stated that the following data is requested for the registration of each participant: ID, name and age.
+
+Regarding the possible categories for registration, the following are handled:
+
+Minors A (6 to 10 years old)
+Minors B (11 to 17 years old)
+Youth (18 to 30 years old)
+Adults (31 to 50 years old)
+Seniors (over 50 years old)
+
+A program is needed that, based on the entry of the data and age of each participant, shows on the screen which category they should be registered for.
+
+At the end of the day.
+
+It should be noted that, at the end of the day, to end registrations, an ID with the value 0 and a name with the word “end” must be entered.
